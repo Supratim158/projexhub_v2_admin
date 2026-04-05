@@ -88,18 +88,6 @@ lib/
 
 ---
 
-## 📸 Screenshots
-
-> ⚠️ Add real screenshots after running the app
-
-| Screen | Preview |
-|--------|--------|
-| Login | ![Login](assets/images/logo.png) |
-| Dashboard | *(Add screenshot)* |
-| Project Details | *(Add screenshot)* |
-| AI Analyzer | *(Add screenshot)* |
-
----
 
 ## 🚀 Quick Start
 
