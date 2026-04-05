@@ -6,11 +6,13 @@ A modern Flutter-based admin dashboard for managing projects, users, feedback, a
 
 ## 🧰 Tech Stack
 
-- **Flutter** – Cross-platform UI framework  
-- **GetX** – State management & routing  
-- **HTTP** – API communication  
-- **GetStorage** – Local storage  
-- **Lottie** – Animations  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-State%20Management-800080?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-Client-orange?style=for-the-badge)
+![GetStorage](https://img.shields.io/badge/GetStorage-Local%20Storage-green?style=for-the-badge)
+![Lottie](https://img.shields.io/badge/Lottie-Animations-ff69b4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
 
 ---
 
